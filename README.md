@@ -59,4 +59,4 @@ I'm always interested in learning, building, and connecting with other developer
 
 **GitHub:** https://github.com/mahnoorimranawan22/
 
-**LinkedIn:** https://www.linkedin.com/in/mahnoor-imran-8612b5375/
+**LinkedIn:** www.linkedin.com/in/mahnoorrimrann
