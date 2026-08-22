@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahnoor Imran
 
-### 💻 Software Engineering Student | Front-End Developer | Aspiring Full-Stack Developer
+### 💻 Software Engineering Student | Full-Stack Developer
 
 I'm a Software Engineering student passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills through hands-on work.
 
